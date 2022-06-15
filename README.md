@@ -1,1 +1,5 @@
 # Phone-book-Directory
+
+A phonebook management project made using Python and JSON to fulfill the requirement of completing the task assigned by Learn and Build for Data Science Summer Internship
+
+By- DS244 Sakshi
